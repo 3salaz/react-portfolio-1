@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+
+:root {
+    --font-family: "Roboto", sans-serif;
+
+    --gradient-text: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
+    --gradient-bar: linear-gradient(to right, #f093fb 0%, #f5576c 100%);
+
+    --color-bg: #eb8d8d;
+    --color-footer: #2f2f2f;
+    --color-blog: #3057c2;
+    --color-text: rgb(61, 192, 192);
+    --color-subtext: rgb(223, 16, 16);
+}
